@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/bootleg_miatoll.mk
+    $(LOCAL_DIR)/pixys_miatoll.mk
 
 COMMON_LUNCH_CHOICES := \
-    bootleg_miatoll-user \
-    bootleg_miatoll-userdebug \
-    bootleg_miatoll-eng
+    pixys_miatoll-user \
+    pixys_miatoll-userdebug \
+    pixys_miatoll-eng
